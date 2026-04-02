@@ -70,9 +70,9 @@
             this.btnBad.BackColor = System.Drawing.Color.Maroon;
             this.btnBad.Font = new System.Drawing.Font("OCR A Extended", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBad.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnBad.Location = new System.Drawing.Point(492, 319);
+            this.btnBad.Location = new System.Drawing.Point(492, 270);
             this.btnBad.Name = "btnBad";
-            this.btnBad.Size = new System.Drawing.Size(129, 37);
+            this.btnBad.Size = new System.Drawing.Size(172, 86);
             this.btnBad.TabIndex = 7;
             this.btnBad.Text = "Bad";
             this.btnBad.UseVisualStyleBackColor = false;
