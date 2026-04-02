@@ -76,7 +76,6 @@
             this.btnBad.TabIndex = 7;
             this.btnBad.Text = "Bad";
             this.btnBad.UseVisualStyleBackColor = false;
-            this.btnBad.Visible = false;
             this.btnBad.Click += new System.EventHandler(this.btnBad_Click);
             // 
             // imgedsheeran
@@ -100,6 +99,7 @@
             this.imgdoggy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.imgdoggy.TabIndex = 9;
             this.imgdoggy.TabStop = false;
+            this.imgdoggy.Visible = false;
             this.imgdoggy.Click += new System.EventHandler(this.pictureBox1_Click_1);
             // 
             // MainForm

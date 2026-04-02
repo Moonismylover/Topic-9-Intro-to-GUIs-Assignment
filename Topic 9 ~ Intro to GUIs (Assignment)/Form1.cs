@@ -40,11 +40,13 @@ namespace Topic_9___Intro_to_GUIs__Assignment_
         private void btnGood_Click(object sender, EventArgs e)
         {
             imgdoggy.Visible = true;
+            imgedsheeran.Visble = false;
         }
 
         private void btnBad_Click(object sender, EventArgs e)
         {
             imgedsheeran.Visible = true;
+            imgdoggy.Visible = false;
         }
     }           
 }
